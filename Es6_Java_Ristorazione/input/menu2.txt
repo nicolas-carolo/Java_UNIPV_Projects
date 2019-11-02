@@ -1,0 +1,2 @@
+1	Brunello tenuta Vecchia	14.5	Brunello di Montalcino	Rosso	90
+1	Brunello tenuta Nuova	13	Brunello di Montalcino	Rosso	24

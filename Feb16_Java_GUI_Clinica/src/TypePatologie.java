@@ -1,0 +1,3 @@
+public enum TypePatologie {
+    PATO0, PATO1, PATO2, PATO3, PATO4, PATO5, PATO6, PATO7, PATO8, PATO9
+}

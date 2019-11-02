@@ -1,0 +1,4 @@
+1	Brunello tenuta Vecchia	14.5	Brunello di Montalcino	Rosso	90	NOBIO
+0	Filetto al pepe verde	Angus	Filetto	33	C001
+0	Scaloppine al vino bianco	Manzo	Scamone	15	NOBIO
+1	Brunello tenuta Nuova	13	Brunello di Montalcino	Rosso	24	V001
